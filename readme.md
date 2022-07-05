@@ -10,8 +10,6 @@ A simple single page app with multiple tabs
 
 ## Optimizations
 
-_(optional)_
-
 * Add content
 * Overhaul the style
 * Add animations
