@@ -21,7 +21,7 @@
 	"bugs": {
 		"url": "https://github.com/BishoSBA/restaurant-page/issues"
 	},
-	"homepage": "https://github.com/BishoSBA/restaurant-page#readme",
+	"homepage": "https://github.com/BishoSBA/restaurant-page/dist/",
 	"devDependencies": {
 		"css-loader": "^6.7.1",
 		"sass": "^1.53.0",
